@@ -111,7 +111,7 @@ Total(μs)       Time%   Kernel(μs)      Kernel% Calls   AvgKernel(μs)   Fence
      11671       0.29         11664      0.29    1002             11.6           7      GlobalAveragePool
 
 
-Grouped by operator 1.17.3
+Grouped by operator 1.16.3
 ----------------------------------------------------------------
 Total(μs)       Time%   Kernel(μs)      Kernel% Calls   AvgKernel(μs)   Fence(μs)       Operator
    2024386      49.84       2024309     49.84   18036            112.2          77      Conv
@@ -125,7 +125,7 @@ Total(μs)       Time%   Kernel(μs)      Kernel% Calls   AvgKernel(μs)   Fence
      11532       0.28         11525      0.28    1002             11.5           7      GlobalAveragePool
 
 
-Grouped by operator 1.7.3
+Grouped by operator 1.17.3
 ----------------------------------------------------------------
 Total(μs)       Time%   Kernel(μs)      Kernel% Calls   AvgKernel(μs)   Fence(μs)       Operator
    2084892      51.06       2084795     51.06   18036            115.6          97      Conv
